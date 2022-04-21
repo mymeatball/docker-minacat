@@ -1,2 +1,2 @@
 [liqitest]
-192.168.226.101
+192.168.226.101 ansible_ssh_user=root
