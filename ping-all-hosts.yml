@@ -1,0 +1,5 @@
+---
+- hosts: liqitest
+  gather_facts: False
+  roles:
+    - liqitest
